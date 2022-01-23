@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": 386427361,
+      "name": "Beecrowd",
+      "owner": {
+        "login": "lucasmarcuzo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34949325?v=4"
+      },
+      "html_url": "https://github.com/lucasmarcuzo/Beecrowd",
+      "description": "Desafios do beecrowd realizados.",
+      "stargazers_count": 0,
+      "language": "C#"
+    },
+    {
+      "id": 362647445,
+      "name": "Estudos",
+      "owner": {
+        "login": "lucasmarcuzo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34949325?v=4"
+      },
+      "html_url": "https://github.com/lucasmarcuzo/Estudos",
+      "description": "Espaço para ser adicionado exercícios de programação.",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 449812584,
+      "name": "Projeto-DIO-Abstraindo-Bootcamp-POO",
+      "owner": {
+        "login": "lucasmarcuzo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34949325?v=4"
+      },
+      "html_url": "https://github.com/lucasmarcuzo/Projeto-DIO-Abstraindo-Bootcamp-POO",
+      "description": "Abstraindo um Bootcamp Usando Orientação a Objetos em Java.",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 449782143,
+      "name": "Projeto-DIO-APP-Cadastro-Series",
+      "owner": {
+        "login": "lucasmarcuzo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34949325?v=4"
+      },
+      "html_url": "https://github.com/lucasmarcuzo/Projeto-DIO-APP-Cadastro-Series",
+      "description": "Algoritmo simples de cadastro de séries para praticar conhecimentos de orientação a objetos em  C# & .NET.",
+      "stargazers_count": 0,
+      "language": "C#"
+    },
+    {
+      "id": 450641757,
+      "name": "Projeto-DIO-APP-Cartao-Visitas",
+      "owner": {
+        "login": "lucasmarcuzo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34949325?v=4"
+      },
+      "html_url": "https://github.com/lucasmarcuzo/Projeto-DIO-APP-Cartao-Visitas",
+      "description": "Criando uma aplicação para gerar cartões de visitas, usando padrões de projeto e boas práticas de programação em Kotlin.",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 449819199,
+      "name": "Projeto-DIO-APP-Lembrete-Tarefas",
+      "owner": {
+        "login": "lucasmarcuzo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34949325?v=4"
+      },
+      "html_url": "https://github.com/lucasmarcuzo/Projeto-DIO-APP-Lembrete-Tarefas",
+      "description": "Criando um App de Lembretes e Tarefas com Kotlin no Android Studio.",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 449783975,
+      "name": "Projeto-DIO-App-Transferencias-Bancarias",
+      "owner": {
+        "login": "lucasmarcuzo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34949325?v=4"
+      },
+      "html_url": "https://github.com/lucasmarcuzo/Projeto-DIO-App-Transferencias-Bancarias",
+      "description": "Criando um algoritmo simples de transferência bancária para exercer o pensamento orientado a objetos em C# & .NET.",
+      "stargazers_count": 0,
+      "language": "C#"
+    },
+    {
+      "id": 449811630,
+      "name": "Projeto-DIO-Banco-Digital-POO",
+      "owner": {
+        "login": "lucasmarcuzo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34949325?v=4"
+      },
+      "html_url": "https://github.com/lucasmarcuzo/Projeto-DIO-Banco-Digital-POO",
+      "description": "Criando um Banco Digital com Java e Orientação a Objetos.",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 449808555,
+      "name": "Projeto-DIO-Catalogo-Jogos",
+      "owner": {
+        "login": "lucasmarcuzo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34949325?v=4"
+      },
+      "html_url": "https://github.com/lucasmarcuzo/Projeto-DIO-Catalogo-Jogos",
+      "description": "Construindo uma arquitetura base para uma aplicação .NET de um Catálogo de Jogos.",
+      "stargazers_count": 0,
+      "language": "C#"
+    },
+    {
+      "id": 449818310,
+      "name": "Projeto-DIO-Jogo-RPG-POO",
+      "owner": {
+        "login": "lucasmarcuzo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34949325?v=4"
+      },
+      "html_url": "https://github.com/lucasmarcuzo/Projeto-DIO-Jogo-RPG-POO",
+      "description": "Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.",
+      "stargazers_count": 0,
+      "language": "C#"
+    }
+  ]
+}
